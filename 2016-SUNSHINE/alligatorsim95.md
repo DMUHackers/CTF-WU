@@ -11,4 +11,4 @@ So we started with the number of eggs at 1337, I entered -2147483648 - 1338 whic
 This then made the amound of eggs a massive number and revealed the flag
 
 ## Other Writeups
-http://err0r-451.ru/sunctf-exploitation-alligatorsim95-50pts/
+* http://err0r-451.ru/sunctf-exploitation-alligatorsim95-50pts/ - Uses same concept
