@@ -12,7 +12,7 @@ Download the image thatNoMoonImage.png
 6. Extract flag.txt using the password ('moon')
 
 ## Other Writeups
-https://github.com/d0tslashpwn/write-ups/blob/master/Sunshine-CTF-2016/write-ups/thats_no_moon.md - Used strings/unzip
-https://github.com/tsunnyday/ctf-writeups/blob/master/SunshineCTF_2016/moon/writeup.txt - Used Foremost
-http://err0r-451.ru/2016-sunctf-forensics-thats-no-moon-50-pts/ - Used John The Ripper to break password
-https://0day.work/sunshine-ctf-2016-writeups/#thatsnomoon - Used DD to extract the zip
+* https://github.com/d0tslashpwn/write-ups/blob/master/Sunshine-CTF-2016/write-ups/thats_no_moon.md - Used strings/unzip
+* https://github.com/tsunnyday/ctf-writeups/blob/master/SunshineCTF_2016/moon/writeup.txt - Used Foremost
+* http://err0r-451.ru/2016-sunctf-forensics-thats-no-moon-50-pts/ - Used John The Ripper to break password
+* https://0day.work/sunshine-ctf-2016-writeups/#thatsnomoon - Used DD to extract the zip
