@@ -4,7 +4,7 @@ URL: http://ctf.bsidesorlando.org/
 Date: 12/03/16 - 13/03/16
 
 # Completed 
-X out of X (xx%)
+X out of X challenges (xx%)
 
 300 points (16%)
 
