@@ -9,6 +9,7 @@ Download the image thatNoMoonImage.png
 3. In the extraction directory there will be a zip file (64885.zip).
 4. This contains a file flag.txt, but is password protected.
 5. Crack password using `fcrackzip -b -c a -l 1-12 -u '64885.zip'`
+6. OR use a dictionary attack `fcrackzip -v -D -u -p /usr/share/dict/words secret.zip /root/Desktop/64885.zip` (using Kali 2.0)
 6. Extract flag.txt using the password ('moon')
 
 ## Other Writeups
